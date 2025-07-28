@@ -1,61 +1,64 @@
 # Site-la-Minutieuse# 🌟 La Minutieuse – Site vitrine professionnel
+# 🌟 La Minutieuse – Professional Showcase Website
 
-Bienvenue sur le dépôt du site vitrine **La Minutieuse**, un site professionnel conçu avec WordPress pour présenter des services, permettre la prise de rendez-vous et faciliter le contact avec les clients.
+Welcome to the repository of **La Minutieuse**, a WordPress-based professional showcase website created to present services, offer appointment booking, and facilitate client contact.
 
 ---
 
-## 📸 Aperçu visuel
+## 📸 Visual Preview
 
-- **Page d’accueil**  
-  ![](captures/accueil.png)
+- **Homepage**  
+  ![](captures/Accueil.png)
 
 - **Services**  
   ![](captures/services.png)
 
-- **À propos**  
+- **About**  
   ![](captures/a_propos.png)
 
 - **Contact**  
-  ![](captures/contact.png)
+  ![](captures/formulaire_contact.png)
 
-- **Réservation de rendez-vous**  
-  ![](captures/reservation.png)
-
----
-
-## 🛠️ Technologies utilisées
-
-- CMS : **WordPress**
-- Thème : *(à préciser si personnalisé ou nom du thème utilisé)*
-- Plugins principaux :
-  - **Formulaire de contact** (ex. : Contact Form 7, WPForms…)
-  - **Système de prise de rendez-vous** (ex. : BookingPress, Simply Schedule Appointments…)
+- **Appointment Booking**  
+  ![](captures/reservations.png)
 
 ---
 
-## 📄 Pages disponibles
+## 🛠️ Built With
 
-- **Accueil** : Introduction de l’entreprise, slogan percutant, visuels attrayants et appels à l’action visibles.
-- **Services** : Présentation claire des prestations proposées.
-- **À propos** : Valeurs, expérience, histoire du projet.
-- **Contact** : Formulaire simple et efficace, informations de contact.
-- **Réservation de rendez-vous** : Calendrier pour planifier un appel téléphonique ou une visio.
-
----
-
-## ✅ Fonctionnalités clés
-
-- Design responsive (adapté aux ordinateurs, tablettes et mobiles)
-- Envoi d’e-mails via formulaire de contact
-- Intégration d’un système de **prise de rendez-vous**
-- Navigation fluide et claire
-- Boutons d’appel à l’action visibles pour convertir les visiteurs
+- CMS: **WordPress**
+- Theme: *(please specify if custom or name of the theme used)*
+- Main Plugins:
+  - **Contact Form** (e.g. Contact Form 7, WPForms…)
+  - **Appointment Booking System** (e.g. BookingPress, Simply Schedule Appointments…)
 
 ---
 
-## 🚧 État du projet
+## 📄 Available Pages
 
-Le site est **en cours d’achèvement**, mais il est déjà **fonctionnel et navigable**. Des ajustements mineurs sont encore à venir.
+- **Homepage**: Business introduction, strong tagline, visuals, and clear calls to action.
+- **Services**: Clear overview of the offered services.
+- **About**: Story, values, and background.
+- **Contact**: Simple and functional contact form.
+- **Appointment Booking**: Easy-to-use calendar to book a phone or video call.
+
+---
+
+## ✅ Key Features
+
+- Responsive design (mobile, tablet, desktop)
+- Email delivery via contact form
+- Integrated **appointment booking** system
+- Clean and intuitive navigation
+- Strong call-to-action buttons for conversions
+
+---
+
+## 🚧 Project Status
+
+The website is **still under development**, but it's already **fully functional and navigable**. Minor improvements are in progress.
+
+---
 
 ---
 
