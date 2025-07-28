@@ -20,17 +20,17 @@ Welcome to the repository of **La Minutieuse**, a WordPress-based professional s
   ![](captures/formulaire_contact.png)
 
 - **Appointment Booking**  
-  ![](captures/reservations.png)
+  ![](captures/reservation.png)
 
 ---
 
 ## 🛠️ Built With
 
 - CMS: **WordPress**
-- Theme: *(please specify if custom or name of the theme used)*
+- Theme: Astra
 - Main Plugins:
-  - **Contact Form** (e.g. Contact Form 7, WPForms…)
-  - **Appointment Booking System** (e.g. BookingPress, Simply Schedule Appointments…)
+  - **Contact Form**  WPForms
+  - **Appointment Booking System** LatePoint
 
 ---
 
