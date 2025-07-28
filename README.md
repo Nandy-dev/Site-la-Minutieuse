@@ -8,7 +8,7 @@ Welcome to the repository of **La Minutieuse**, a WordPress-based professional s
 ## 📸 Visual Preview
 
 - **Homepage**  
-  ![](captures/Accueil.png)
+  ![](captures/accueil.png)
 
 - **Services**  
   ![](captures/services.png)
